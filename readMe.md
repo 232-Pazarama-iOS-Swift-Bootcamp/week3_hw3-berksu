@@ -1,5 +1,10 @@
 # Pazarama iOS Bootcamp - Hafta 3 - Ödev
 
+Gif:
+<p align="center">
+<img src="screenshots/iphone14ProMax.gif" alt="drawing" width="200"/>
+</p>
+
 
 ## iTunes Client App
 
