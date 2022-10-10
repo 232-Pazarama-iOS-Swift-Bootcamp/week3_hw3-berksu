@@ -2,7 +2,7 @@
 
 Gif:
 <p align="center">
-<img src="iphone14ProMax_2.gif" alt="drawing" width="200"/>
+<img src="iPhone14ProMax_2.gif" alt="drawing" width="200"/>
 </p>
 
 
